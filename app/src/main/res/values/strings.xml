@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practical2</string>
+    <string name="enter_a_reply">enter a reply</string>
+    <string name="close">Close</string>
+    <string name="message">Message</string>
+    <string name="enter_a_message">enter a message</string>
+</resources>
